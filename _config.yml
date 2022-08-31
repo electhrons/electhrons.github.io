@@ -1,12 +1,12 @@
 # Site settings
-title: soujiang pagina de prueba
+title: Electhrons
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: Electhrons_elth
+github_username: Electhrons_elth
 
 # Build settings
 markdown: kramdown
