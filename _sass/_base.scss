@@ -577,6 +577,18 @@ body {
     background-size: cover;
 }
 
+.nftbottoms {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+}
+
+.nftbottoms a {
+    margin:0.5em;
+}
+
 /*TEAM*/
 
 #team {
